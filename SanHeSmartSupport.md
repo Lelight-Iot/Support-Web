@@ -1,10 +1,11 @@
-### SHSmartLight Support
+# Support of your SHSmartLight
+If you have any questions, please contact us through the following, we will get back to you as soon as possible.
 
-# Phone:
+### Phone:
 0760-89833208
 
-# Email:
-772331463@QQ.COM
+#### Email:
+772331463@qq.com
 
-# Address:
+#### Address:
 中国广东省中山市古镇曹二长安路71号
