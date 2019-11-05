@@ -1,4 +1,4 @@
-# Support of SH-SmartLight
+# Support of SHSmartLight
 If you have any questions, please contact us through the following, we will get back to you as soon as possible.
 
 ### Phone:
